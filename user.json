@@ -1,0 +1,7 @@
+{
+  "Users": [
+    {"username":  "Admin", "password":  "supersecure"},
+    {"username":  "Admin2", "password":  "hypersecure"},
+    {"username":  "Admin69", "password":  "swordfish"}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "participant": {
+    "pedestrian": [
+      {"numberOfLanes":1, "emergency":0, "dangerLevel":4, "priorityLevel":2},
+      {"numberOfLanes":2, "emergency":0, "dangerLevel":4, "priorityLevel":2},
+      {"numberOfLanes":1, "emergency":1, "dangerLevel":4, "priorityLevel":5},
+      {"numberOfLanes":2, "emergency":1, "dangerLevel":4, "priorityLevel":5}
+    ],
+    "publicVehicle": [
+      {"numberOfLanes":1, "emergency":0, "dangerLevel":2, "priorityLevel":3},
+      {"numberOfLanes":2, "emergency":0, "dangerLevel":1, "priorityLevel":3},
+      {"numberOfLanes":1, "emergency":1, "dangerLevel":2, "priorityLevel":3},
+      {"numberOfLanes":2, "emergency":1, "dangerLevel":1, "priorityLevel":3}
+    ],
+    "regularVehicle": [
+      {"numberOfLanes":1, "emergency":0, "dangerLevel":3, "priorityLevel":0},
+      {"numberOfLanes":2, "emergency":0, "dangerLevel":2, "priorityLevel":0},
+      {"numberOfLanes":1, "emergency":1, "dangerLevel":3, "priorityLevel":5},
+      {"numberOfLanes":2, "emergency":1, "dangerLevel":2, "priorityLevel":5}
+    ],
+    "maintenanceVehicle": [
+      {"numberOfLanes":1, "emergency":0, "dangerLevel":2, "priorityLevel":1},
+      {"numberOfLanes":2, "emergency":0, "dangerLevel":1, "priorityLevel":1},
+      {"numberOfLanes":1, "emergency":1, "dangerLevel":2, "priorityLevel":1},
+      {"numberOfLanes":2, "emergency":1, "dangerLevel":1, "priorityLevel":1}
+    ],
+    "animalPoweredVehicle": [
+      {"numberOfLanes":1, "emergency":0, "dangerLevel":4, "priorityLevel":0},
+      {"numberOfLanes":2, "emergency":0, "dangerLevel":4, "priorityLevel":0},
+      {"numberOfLanes":1, "emergency":1, "dangerLevel":4, "priorityLevel":5},
+      {"numberOfLanes":2, "emergency":1, "dangerLevel":4, "priorityLevel":5}
+    ],
+    "humanPoweredVehicle": [
+      {"numberOfLanes":1, "emergency":0, "dangerLevel":5, "priorityLevel":0},
+      {"numberOfLanes":2, "emergency":0, "dangerLevel":4, "priorityLevel":0},
+      {"numberOfLanes":1, "emergency":1, "dangerLevel":5, "priorityLevel":5},
+      {"numberOfLanes":2, "emergency":1, "dangerLevel":4, "priorityLevel":5}
+    ]
+  }
+}
